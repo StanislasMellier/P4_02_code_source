@@ -1049,3 +1049,9 @@ h4 {
     font-weight: 400;
     color: #575757!important;
 }
+footer#bloc-8 {
+    color: #000!important;
+}
+footer#bloc-8 * {
+    color: #333333!important;
+}
